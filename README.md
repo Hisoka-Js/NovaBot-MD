@@ -7,7 +7,7 @@ NovaBot-MD todavía no está terminado bot el desarrollo✨
 ### `—◉ DUDAS SOBRE EL BOT?, CONTACTAME ✨`
 <a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="http://wa.me/51935116539" target="blank"><img src="https://img.shields.io/badge/desarrollo¹-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="http://wa.me/5218992059110" target="blank"><img src="https://img.shields.io/badge/desarrollo²-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/524531106422" target="blank"><img src="https://img.shields.io/badge/desarrollo²-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
 [![blog](https://img.shields.io/badge/Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
@@ -88,7 +88,7 @@ NovaBot-MD todavía no está terminado bot el desarrollo✨
 
 ## `𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐂𝐈𝐎𝐍` 
 [![Misaelsharkbot](https://github.com/Misaelsharkbot.png?size=100)](https://github.com/Misaelsharkbot)
-[![Skidy](https://github.com/Skidy89.png?size=100)](https://github.com/Skidy89)
+[![Alexiswithlogic](https://github.com/AlexisWithlogic.png?size=100)](https://github.com/AlexisWithlogic)
 
 
 # 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨 
