@@ -28,6 +28,15 @@ NovaBot-MD todavía no está terminado bot el desarrollo✨
 </p>
 
 -----
+
+### `—◉ 💥 ACTIVAR EN BOXMINEHOST 💥`
+
+𝐐𝐮𝐢𝐞𝐫𝐞 𝐭𝐞𝐧𝐞𝐫 𝐮𝐧 𝐛𝐨𝐭 𝟐𝟒/𝟕 𝐚𝐜𝐭𝐢𝐯𝐨
+
+<p align="hihg">   
+<a href="https://dash.boxmineworld.com" target="_blank"> <img src="https://img.shields.io/badge/-boxmine-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+
+-----
 ### ⚡ ACTIVA EL REPLIT
 [![Deploy](https://img.shields.io/badge/replit_-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/elrebelde21/NovaBot-MD)
 <a href="https://replit.com/github/elrebelde21/NovaBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
