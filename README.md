@@ -30,7 +30,13 @@ NovaBot-MD todavía no está terminado bot el desarrollo✨
 <p align="hihg">   
 <a href="https://portal.acidicnodes.com" target="_blank"> <img src="https://img.shields.io/badge/-AcidicNodes-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
-
+-----
+### ⚡ ACTIVA EL REPLIT
+[![Deploy](https://img.shields.io/badge/replit_-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/elrebelde21/NovaBot-MD)
+<a href="https://replit.com/github/elrebelde21/NovaBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+-----
+- [x] Resultado <details><summary>Importar Repositorio - NovaBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
+-----
 ---------
 
 ## 𝐀𝐜𝐭𝐢𝐯𝐚 𝐞𝐥 𝐭𝐞𝐫𝐦𝐮𝐱
