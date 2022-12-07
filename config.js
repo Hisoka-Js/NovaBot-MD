@@ -1,13 +1,13 @@
 //=============『 owner 』================== //
-global.owner = ['5492266466080' , '51935116539'] 
+global.owner = ['5492266466080' , '524531106422'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'creador'
-global.numberowner = '5492266466080' , '51935116539'
+global.numberowner = '5492266466080' , '524531106422'
 global.instagram = ''
-global.github = ''
+global.github = 'https://github.com/elrebelde21/NovaBot-MD'
 global.dana = '087892711054'
 global.pulsa = '085212023766'
 global.gopay = '087892711054'
