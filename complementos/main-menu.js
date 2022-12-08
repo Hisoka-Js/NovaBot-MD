@@ -1,5 +1,5 @@
 /**
-* si editar algo por favor de deja créditos
+* si editar algo por favor de deja créditos.
 **/
 
 //━━━━━━━━[ configuración ]━━━━━━━━//
@@ -307,90 +307,90 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             sections: [
               {
                 "rows": [{
-                  "title": `OWNER`,
+                  "title": `𝕆𝕎ℕ𝔼ℝ`,
                   "description": "nunero del propietario/owner del bot",
                   "rowId": `.owner`
                 },{
-                  "title": "❗ INFOBOT",
+                  "title": "❗ 𝕀ℕ𝔽𝕆𝔹𝕆𝕋",
                   "description": "muestra el menu de infobot",
                   "rowId": `${_p}? info`
                 }],
-                "title": "INFORBOT"
+                "title": "𝕀ℕ𝔽𝕆ℝ𝔹𝕆𝕋"
               }, {
                 "rows": [{
-                  "title": `│🔰│ menu completo`,
+                  "title": `│🔰│ 𝕄𝔼ℕ𝕌 ℂ𝕆𝕄ℙ𝕃𝔼𝕋𝕆`,
                   "description": "muestra el menu completo",
                   "rowId": '.? all'
                   }, {
-                  "title": "│ 📝│ logos",
+                  "title": "│📝│ 𝕃𝕆𝔾𝕆𝕊",
                   "description": "muestra la lista de logos",
                   "rowId": `${_p}? absen`
                 }, {
-                  "title": "│⛩️│ANIME",
+                  "title": "│⛩️│𝔸ℕ𝕀𝕄𝔼",
                   "description": "muestra la lista de Menu Anime",
                   "rowId": `${_p}? anime`
                 }, {
-                  "title": "│🎇│STICKER",
+                  "title": "│🎇│𝕊𝕋𝕀ℂ𝕂𝔼ℝ",
                   "description": "muestra la lista para crea sticker",
                   "rowId": `${_p}? sticker`
                 }, {
-                  "title": "│📺│ descarga",
+                  "title": "│📺│ 𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊",
                   "description": "muestra la lista de descargar",
                   "rowId": `${_p}? downloader`
                 }, {
-                  "title": "│📈│EXP & LIMIT",
+                  "title": "│📈│𝔼𝕏ℙ & 𝕃𝕀𝕄𝕀𝕋",
                   "description": "muestra la lista de exp",
                   "rowId": `${_p}? xp`
                 }, {
-                  "title": "│🐣│diversion",
+                  "title": "│🐣│𝔻𝕀𝕍𝔼ℝℂ𝕀𝕆ℕ",
                   "description": "muestra la lista divertida del bot",
                   "rowId": `${_p}? fun`
                 }, {
-                  "title": "│🎮│ juegos",
+                  "title": "│🎮│ 𝕁𝕌𝔼𝔾𝕆𝕊",
                   "description": "muestra la lista de juegos para diverti tu grupo",
                   "rowId": `${_p}? game`
                 }, {
-                  "title": "│🏢│grupos",
+                  "title": "│🏢│𝔾ℝ𝕌ℙ𝕆𝕊",
                   "description": "muestra la lista de menu de grupo",
                   "rowId": `${_p}? group`
                 }, {
-                  "title": "│🖼│IMAGE",
+                  "title": "│🖼│𝕀𝕄𝔸𝔾𝔼ℕ𝔼𝕊",
                   "description": "muestra la lista de busqueda de imagenes",
                   "rowId": `${_p}? image`
                 }, {
-                  "title": "│✒️│MAKER",
+                  "title": "│✒️│𝕄𝔸𝕂𝔼ℝ",
                   "description": "Muestra el menu maker",
                   "rowId": `${_p}? maker`
                 }, {
-                  "title": "│👨‍💻│menu owner",
+                  "title": "│👨‍💻│𝕄𝔼ℕ𝕌 𝕆𝕎ℕ𝔼ℝ",
                   "description": "muestra la lista que solo el propietario/owner puede usar",
                   "rowId": `${_p}? owner`
                 }, {
-                  "title": "│🎙│efecto de audio",
+                  "title": "│🎙│𝔼𝔽𝔼ℂ𝕋𝕆 𝔻𝔼 𝔸𝕌𝔻𝕀𝕆",
                   "description": "muestra la lista de efectos",
                   "rowId": `${_p}? suara`
                 }, {
-                  "title": "│🔝│PREMIUM",
+                  "title": "│🔝│ℙℝ𝔼𝕄𝕀𝕌𝕄",
                   "description": "muestra la lista que solo miembro premium puede usar",
                   "rowId": `${_p}? premium`
                 }, {
-                  "title": "│🔗│grupos de bot",
+                  "title": "│🔗│𝔾ℝ𝕌ℙ𝕆𝕊 𝔻𝔼𝕃 𝔹𝕆𝕋",
                   "description": "grupos de bot ofc",
                   "rowId": `${_p}? shortlink`
                 }, {
-                  "title": "│🛠│ herramientas",
+                  "title": "│🛠│ℍ𝔼ℝℝ𝔸𝕄𝕀𝔼ℕ𝕋𝔸𝕊",
                   "description": "Muestra el menu herramientas",
                   "rowId": `${_p}? tools`
                 }, {
-                  "title": "│🧼│HENTAI",
+                  "title": "│🧼│ℍ𝔼ℕ𝕋𝔸𝕀",
                   "description": "Muestra la lista de menu +18",
                   "rowId": `${_p}? nsfw`
                 }, {
-                  "title": "│🌚│RANDOM",
+                  "title": "│🌚│ℝ𝔸ℕ𝔻𝕆𝕄",
                   "description": "muestra la lista de menu randow",
                   "rowId": `${_p}? random`
                 }, {
-                  "title": "│⛄│TEXTO PRO",
+                  "title": "│⛄│𝕋𝔼𝕏 ℙℝ𝕆",
                   "description": "muestra la lista de texto pro",
                   "rowId": `${_p}? textpro`
                 }
